@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">My Article List</string>
+
+    <string name="article_name">Judul Artikel</string>
+    <string name="description">Deskripsi</string>
+    <string name="name">Farhan Apri Kesuma</string>
+    <string name="email">farhannn58@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Mengenal Firebase Untuk Mengembangkan Aplikasi Modern</item>
+        <item>Mengenal Blockchain dan pengaruhnya dalam bisnis digital</item>
+        <item>Mengapa Pentingnya API dalam Pengembangan Aplikasi</item>
+        <item>Tantangan dan Solusi Keamanan Data E-KTP di Era Digital</item>
+        <item>Mengenal Teknologi Procedural Generation</item>
+        <item>AI Bisa Merusak Otak Kita, Kok Bisa?</item>
+        <item>WEB 3.0 Revolution of the Internet?</item>
+        <item>Microservices</item>
+        <item>Extended Reality</item>
+        <item>Cyber Security</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Firebase adalah sebuah cloud platform dari Google untuk mengembangkan aplikasi dengan berbagai layanan yang disediakan. Semua layanan yang disediakan Firebase memungkinkan kita untuk mengembangkan aplikasi yang lebih canggih dengan waktu yang lebih cepat. Pada artikel kali ini akan dijelaskan berbagai layanan yang disediakan Firebase yang sering digunakan. Firebase menyediakan layanan autentikasi yang memungkinkan pengembang mengintegrasikan sistem autentikasi pengguna dengan mudah dengan berbagai opsi autentikasi seperti email, nomor telepon, dan media sosial. Firebase membuat proses pengembangan sebuah sistem autentikasi menjadi lebih mudah dan cepat. Firebase juga menjamin keamanan dan privasi, sehingga aplikasi yang kita buat menjadi lebih aman. Firebase Firestore adalah basis data berbasis cloud yang disediakan oleh Firebase. Basis data ini menggunakan konsep NoSQL, yang berarti kita tidak dapat menggunakan query SQL seperti biasa, tetapi menggunakan fungsi-fungsi yang telah disediakan oleh Firebase Firestore. Hal tersebut menjadikan Firebase Firestore lebih cepat ketimbangkan basis data yang menggunakan SQL, tetapi lambat saat desain basis data yang dibuat memerlukan banyak relasi.</item>
+        <item>Dunia teknologi semakin berkembang pesat di Indonesia, termasuk dalam bidang blockchain. Blockchain merupakan teknologi yang digunakan sebagai sistem penyimpanan atau bank data secara digital yang terhubung dengan kriptografi. Dalam beberapa tahun terakhir, kepopuleran blockchain semakin meningkat seiring dengan tingginya minat masyarakat terhadap dunia cryptocurrency. Namun, teknologi blockchain tidak hanya berhubungan dengan cryptocurrency, tetapi juga memiliki potensi besar untuk mengubah dunia bisnis digital secara keseluruhan. Secara sederhana, blockchain adalah teknologi yang digunakan untuk menyimpan data transaksi secara digital dengan menggunakan kriptografi. Blockchain terdiri dari blok-blok yang saling terhubung, membentuk rantai transaksi yang tidak bisa diubah atau dipalsukan. Setiap blok dalam blockchain berisi data transaksi dan hash kriptografi yang digunakan untuk memvalidasi dan mengamankan data tersebut. Salah satu karakteristik unik dari blockchain adalah sifatnya yang terdesentralisasi. Blockchain tidak dikendalikan oleh satu sistem atau entitas tunggal, melainkan terbagi dan terhubung di banyak komputer atau node yang berpartisipasi. Hal ini membuat blockchain menjadi lebih transparan, aman, dan tahan terhadap perubahan atau manipulasi data.</item>
+        <item>API juga bisa digunakan untuk meningkatkan pertumbuhan bisnis, contohnya yaitu pengembangan aplikasi yang cepat dan efisien dengan menggunakan API, pengembangan dapat memanfaatkan fungsionalitas yang sudah ada dan membangun aplikasi baru dengan lebih cepat dan efisien. Daripada membangun semua fitur dari awal, API memungkinkan penggunaan ulang kode yang telah ada. Ini dapat menghemat waktu dan juga upaya pengembangan, mempercepat siklus pengembangan serta memungkinkan bisnis untuk meluncurkan produk ataupun layanan lebih cepat ke pasaran. API juga dimanfaatkan dalam pertumbuhan bisnis yaitu dengan integritas sistem yang mudah, perluasan jangkauan dan kemitraan, peningkatan pengalam pengguna serta inovasi dan monetisasi. API merupakan singkatan dari Application Programming Interface, yang memiliki fungsi sebagai perantara yang menjembatani dua aplikasi untuk berkomunikasi satu sama lain. API dapat diibaratkan sebagai penerjemah antara dua orang yang tidak berbicara dengan bahasa yang sama, tetapi tetap bisa berkomunikasi untuk memenuhi kebutuhan satu sama lain. Bagi mobile developer atau web developer, API adalah salah satu aspek yang paling penting untuk membantu pekerjaan mereka, karena dapat menyederhanakan program yang sedang mereka buat di dalam sebuah website atau aplikasi.</item>
+        <item>Pesatnya perkembangan teknologi informasi menimbulkan peralihan sistem kerja dari yang bersifat manual ke sistem digital. Teknologi semakin dikembangkan untuk semakin mempermudah manusia dalam melakukan suatu aktivitas dalam kehidupan sehari-hari. Perubahan ini juga merubah cara pandang dalam melakukan berbagai kegiatan, salah satunya adalah pada kegiatan instansi pemerintah. Pembocoran data E-KTP terjadi ketika informasi pribadi yang terdapat dalam kartu identitas elektronik tersebut disusupi atau diperoleh dari pihak yang tidak berwenang. Pembocoran data E-KTP terjadi ketika informasi pribadi yang terdapat dalam kartu identitas elektronik tersebut disusupi atau diperoleh dari pihak yang tidak berwenang. Baru-baru ini disebutkan terdapat 337.225.465 baris data kependudukan yang dikelola Ditjen Dukcapil Kemendagri dijual di forum peretas. Data yang bocor mencakup informasi pribadi seperti nama, alamat, nomor KTP, nomor telepon, tanggal lahir, dan informasi lainnya yang sangat sensitif. Salah satu faktor yang menjadi penyebab dugaan kebocoran 337 juta data penduduk adalah usia peladen (server) milik Ditjen Dukcapil Kemendagri sudah uzur. Dampaknya tidak hanya mengancam privasi individu, tetapi juga dapat menyebabkan tindakan kriminal seperti penipuan, identitas palsu, dan ancaman keamanan lainnya.</item>
+        <item>Apakah kamu pernah memainkan game Minecraft? Game yang memiliki map yang sangat luas dan tak terhingga jauhnya. Mungkin kamu bertanya-tanya bagaimana caranya Minecraft bisa membuat map yang sangat luas dan acak. Ternyata Minecraft menggunakan teknologi yang sangat canggih untuk membangkitkan map yang acak dan tak terbatas yakni dengan teknologi Procedural Generation atau PCG. Procedural Generation atau Pembangkitan Konten Secara Prosedural adalah sebuah metode komputasi yang digunakan untuk membuat sebuah konten dalam permainan video berupa karakter, musuh, objek benda, level, dan lain - lain. Konten yang dibangkitkan dibuat secara algoritmik dan bukan secara manual melalui kombinasi aset dan algoritma yang dihasilkan manusia ditambah dengan randomisasi yang dihasilkan oleh komputer dan kekuatan pemrosesan. Itulah mengapa pentingnya peran algoritma dan randomisasi komputer dalam pembangkitan konten secara prosedural. Sebagai contoh sebagai mahasiswa kamu ingin membuat sebuah game yang didalamnya memiliki biome atau alam, hewan, karakter NPC, musuh, dll. Seluruh konten tersebut kamu gabungkan menjadi satu dengan mengimplementasikan PCG maka game yang kamu menciptakan sebuah dunia game yang unik dan tidak terbatas. Konten yang ada di dalam dunia game kamu akan berbeda - beda tetapi kamu tidak perlu budget atau waktu lebih untuk membangkitkan seluruh konten tersebut.</item>
+        <item>Artificial Intelligence, atau dalam bahasa Indonesia disebut dengan Kecerdasan Buatan merupakan komputer yang memiliki kemampuan dalam bertindak layaknya manusia pada umumnya, seperti belajar dan memecahkan suatu masalah. Dalam implementasinya untuk menjadi mirip dengan manusia, AI membutuhkan data, pengetahuan, dan pengalaman dari Trainer (Pelatih) agar bisa mengembangkan kemampuan berpikirnya, seperti layaknya manusia harus belajar dan mencoba untuk mendapatkan suatu pengalaman. Karena AI diciptakan untuk belajar otomatis, maka AI dapat memperkaya pengetahuan secara mandiri, bahkan tanpa Trainer sekalipun. Pada dasarnya, AI sekarang mempu melakukan 4 tindakan utama, yaitu:
+
+Acting Humanly, bertindak layaknya manusia
+Thinking Humanly, berpikir layaknya manusia
+Think Rationally, berpikir secara rasional
+Act Rationally, bertindak secara rasional
+        Secara umum, AI bekerja dengan menyerap data dan akan melakukan analisis untuk membandingkan korelasi dan pola data, yang kemudian menjadi prediksi tindakan yang dilakukan di masa depan. AI seharusnya mampu menyempurnakan prediksi, data, dan tindakan yang sudah dilakukan sebelumnya sebagai tolak ukur tindakan selanjutnya.</item>
+        <item>Web 3.0 merupakan layanan web generasi ke-3 yang terdesentralisasi (blockchain) yang dimana berfokus pada machine learning untuk mengolah / menginterpretasikan data dan menyediakan pengalaman kepada pengguna suatu web yang lebih cerdas, terbuka dan aman. Konsep Web 3.0 pertama kali diperkenalkan pada tahun 2001, saat Tim Berners-Lee, penemu World Wide Web menulis sebuah artikel ilmiah yang menggambarkan tentang Web 3. Sebelum kita mengetahui apa yang membuat Web 3.0 menarik, kita akan membahas tentang perkembangan web pada generasi pendahulunya agar bisa mendapatkan perbandingan dari perubahan apa saja yang dimiliki Web 3.0 ini. Web 1.0
+Pada Web 1.0 sistem dalam menggunakan website hanya berjalan satu arah, yaitu user hanya bisa mengakses informasi tanpa bisa menginputkan sesuatu. Web 1.0 cukup banyak memiliki kekurangan dengan banyaknya web yang berjalan statis, tidak interaktif dan bahkan hanya bisa menggunakan email sebagai alat berkomunikasi.
+
+Web 2.0
+Generasi Web versi ini merupakan versi yang sedang kita pakai sekarang. Dimana sekarang kita bisa melakukan banyak sekali hal di Web 2.0 ini, dan pada versi ini sudah menyelesaikan beberapa kekurangan yang ada pada generasi sebelumnya. Pada generasi Web 2.0 ini kita sudah bisa membuat user account kita sendiri, dan juga Web 2.0 ini sudah memiliki antarmuka yang membuat pengalaman pengguna menjadi lebih baik. Pada generasi ini juga menyebabkan munculnya komunitas online, media sosial, blogging, dan reaksi seperti adanya tombol like, share dan sebagainya. Kekurangan dari generasi ini ialah terdapat beberapa pihak yang bisa mendapatkan data diri kita apabila kita membuat sebuah account seperti google, facebook dan lain-lain.
+
+Web 3.0
+Generasi ini adalah generasi yang sedang dikembangkan saat ini. Pada generasi Web 3.0 ini sudah terdesentralisasi yang membuat keamanan dari data diri kita hanya bisa diketahui oleh diri kita sendiri, dimana diketahui bahwa sudah tidak ada lagi pihak ke-3 seperti contoh yaitu google sebagai alat yang memegang kendali dalam aktivitas apa saja yang kita lakukan di internet.</item>
+        <item>Microservice merupakan sebuah pendekatan untuk mengembangkan aplikasi dari berbagai macam layanan mikro/kecil yang berkomunikasi secara ringan(lightweight) dan berjalan dengan independen². Dengan kata lain microservice merupakan sebuah aplikasi dibangun dengan cara memecah suatu fungsionalitas menjadi beberapa layanan/services. Pros dan Cons dari Microservices
+Pros
+
+Independent (Independen): proses debugging, pengaturan dan deployment aplikasi tidak mempengaruhi layanan lain karena setiap layanan bersifat independen.
+Highly Scalable (Sangat terukur): dengan microservices aplikasi dapat diperluas secara horizontal yang artinya kenaikan traffic dari sebuah aplikasi dapat diatasi dengan penambahan server lainnya, berbeda dengan vertikal yang mengharuskan untuk mengupgrade komponen server yang sedang berjalan.
+Easier to Maintain (Lebih mudah dirawat): karena setiap services bersifat independent hal ini membuat proses pemeliharaan menjadi lebih mudah.
+Flexible (Fleksibel): menambahkan fitur / teknologi baru yang diinginkan ke dalam aplikasi menjadi lebih mudah. Selain itu microservice tidak terikat dengan 1 bahasa pemrograman sehingga service bisa bekerja seefisien dan sefleksibel mungkin tergantung bahasa pemrograman yang digunakan.
+Cons
+
+Konfigurasi yang Kompleks, memecah suatu fungsional menjadi beberapa bagian tentu saja akan menambah kompleksitas dari konfigurasi terlebih tentang bagaimana setiap service tersebut bekerjasama satu dengan yang lain.
+Membutuhkan skill yang spesifik, ini juga merupakan salah satu alasan kenapa microserice jarang digunakan. Microservice memiliki steep learning curve, dengan kata lain relatif susah untuk dipelajari dan membutuhkan effort yang lebih.
+Biaya tambahan, penggunaan microservice bisa jadi dapat mengurangi biaya atau mungkin juga dapat menambah biaya tergantung bagaimana microservice dan dependencies-nya diatur.
+Time consuming, mengkonfigurasi, melakukan debugging, dan memelihara setiap service sudah pasti akan menyita banyak waktu. Sama halnya dengan belajar tentang konsep karena memiliki steep learning curve, belajar microservice juga membutuhkan waktu yang tidak sedikit.</item>
+        <item>Extended Reality (XR)adalah sebuah istilah umum dari dunia teknologi yang sangat penting karena memperluas kenyataan dengan menambah atau mensimulasikan dunia nyata melalui digital. XR mencakup virtual reality, augmented reality, dan mixed reality. Virtual Reality (VR) adalah lingkungan 3D yang dihasilkan dengan teknologi komputer di mana pengguna dapat sepenuhnya ‘tenggelam’ dalam realitas simulasi dengan bantuan headset khusus, atau bahkan umpan balik dari lingkungan.</item>
+        <item>Cyber security atau keamanan siber adalah keamanan komputer yang bekerja untuk melindungi sistem jaringan, atau pembukaan informasi secara ilegal atau juga disebut dengan pencurian informasi dan membahayakan software dan juga hardware. Serangan siber biasanya tidak hanya menyerang perusahaan besar saja melainkan bisnis kecil hingga data pribadi. Untuk itu dengan adanya cyber security ini komputer terlindungi dari berbagai ancaman dari serangan siber. Biasanya tindakan yang mengacaukan atau membobol jaringan disebut hacking dan juga cracking. Hacking adalah tindakan untuk mengetahui celah keamanan. Sedangkan cracking adalah perusakan atau pengacauan pada sistem jaringan dan juga meretas serta mencuri data. Pelaku hacking terbagi menjadi dua yaitu black hat dan white hat. Black hat yaitu melakukan hacking untuk mengambil atau mencuri data pribadi secara ilegal atau menggunakan kemampuan hacking tersebut dengan tujuan kejahatan dan keuntungan pribadi. Sedangkan White Hat akan menggunakan kemampuan hacking nya untuk membantu dan memberi tahu celah keamanan pribadi kepada perusahaan dan tindakan yang dilakukan oleh White Hat adalah legal dan dapat membantu untuk meminimalisir kebobolan pada data dan jaringan.</item>
+    </string-array>
+
+    <integer-array name="data_photo_unglide">
+        <item>@drawable/article_1</item>
+        <item>@drawable/article_2</item>
+        <item>@drawable/article_3</item>
+        <item>@drawable/article_4</item>
+        <item>@drawable/article_5</item>
+        <item>@drawable/article_6</item>
+        <item>@drawable/article_7</item>
+        <item>@drawable/article_8</item>
+        <item>@drawable/article_9</item>
+        <item>@drawable/article_10</item>
+    </integer-array>
+
+    <string-array name="data_link">
+        <item>https://hmif.if.itera.ac.id/article/12</item>
+        <item>https://hmif.if.itera.ac.id/article/13</item>
+        <item>https://hmif.if.itera.ac.id/article/11</item>
+        <item>https://hmif.if.itera.ac.id/article/10</item>
+        <item>https://hmif.if.itera.ac.id/article/9</item>
+        <item>https://hmif.if.itera.ac.id/article/8</item>
+        <item>https://hmif.if.itera.ac.id/article/2</item>
+        <item>https://hmif.if.itera.ac.id/article/3</item>
+        <item>https://hmif.if.itera.ac.id/article/4</item>
+        <item>https://hmif.if.itera.ac.id/article/5</item>
+    </string-array>
+</resources>

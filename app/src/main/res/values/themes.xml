@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyArticleList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/soft_black</item>
+    </style>
+
+    <style name="Theme.MyArticleList" parent="Base.Theme.MyArticleList" />
+
+    <style name="TextSplash">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    
+    <style name="roundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    
+    <style name="ActionBarStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?android:attr/actionBarSize</item>
+        <item name="android:background">@color/white</item>
+    </style>
+
+    <style name="SplashBasedStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/soft_white</item>
+    </style>
+
+    <style name="MainActivityStyle">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:background">@color/soft_white</item>
+    </style>
+
+    <style name="Responsive">
+        <item name="android:tint">@color/soft_black</item>
+    </style>
+</resources>

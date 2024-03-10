@@ -32,7 +32,7 @@ class DetailActivity : AppCompatActivity() {
         binding.btnShare.setOnClickListener {
             val share = Intent()
             share.action = Intent.ACTION_SEND
-            share.putExtra(Intent.EXTRA_TEXT, "${dataArticle?.link}")
+            share.putExtra(Intent.EXTRA_TEXT, dataArticle.link)
             share.type = "text/plain"
             startActivity(Intent.createChooser(share, "Share to:"))
         }

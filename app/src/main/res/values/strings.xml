@@ -5,6 +5,7 @@
     <string name="description">Deskripsi</string>
     <string name="name">Farhan Apri Kesuma</string>
     <string name="email">farhannn58@gmail.com</string>
+    <string name="share">Share</string>
 
     <string-array name="data_name">
         <item>Mengenal Firebase Untuk Mengembangkan Aplikasi Modern</item>
